@@ -1,0 +1,2998 @@
+[
+  {
+    "name": "1800cc bottle",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "1800cc bottle cap",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Accessory case (except wood)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Accessory case (paper/wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Accordion curtain",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Advertising papers (newspaper inserts)",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Agricultural chemicals",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Agricultural machinery",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Agricultural plastics",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Air cleaner",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Air conditioner",
+    "category": "We Don't Collect",
+    "notes": "Take to Electronics Store or Recycle Center"
+  },
+  {
+    "name": "Air cushion",
+    "category": "Plastic"
+  },
+  {
+    "name": "Aluminium cans and caps (drinks and food containers)",
+    "category": "Recyclable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Aluminium foil",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Aluminium foil (kitchen use)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Aluminium foil tube (kitchen use)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Aluminium packaging (snacks/food bags)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Aluminium wheel (car parts)",
+    "category": "We Don't Collect"
+  },
+  {
+    "name": "Amplifier",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Antenna (for TV use/BS)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Aquarium",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Ashtray",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Attaché case",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Audio rack",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Automobile (including vehicle parts)",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Baby bath",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Baby bed (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Baby bed (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Baby chair",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "category": "Burnable",
+    "notes": "bag, should be put out as oversized burnable",
+    "name": "Baby futon"
+  },
+  {
+    "name": "Baby's clothes closet",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Baby's milk bottle (heat-resisting glass)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Baby's milk bottle (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "category": "Burnable",
+    "name": "Bag (natural leather/ natural fiber)"
+  },
+  {
+    "name": "Bag (synthetic leather/synthetic fiber)",
+    "category": "Plastic"
+  },
+  {
+    "category": "Non-burnable",
+    "notes": "Extract air",
+    "name": "Ball (spherical)"
+  },
+  {
+    "name": "Ball-point pen (excluding metal)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Ball-point pen container (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Bamboo curtain",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Bamboo scraps",
+    "category": "Burnable"
+  },
+  {
+    "name": "Barbecue set",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Bath lid (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Bath lid (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Battery",
+    "category": "Hazardous waste"
+  },
+  {
+    "name": "Battery (automotive)",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Beach umbrella",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Bed (steel/mattress)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Bed (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Beer bottlecaps",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Beer bottles",
+    "category": "Recyclable",
+    "notes": "Wash inside (return to store)"
+  },
+  {
+    "name": "Belt",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Bicycle",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Black tea can",
+    "category": "Recyclable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Black teabag packets",
+    "category": "Burnable"
+  },
+  {
+    "name": "Black teabag wrappers",
+    "category": "Plastic"
+  },
+  {
+    "name": "Black teabags",
+    "category": "Burnable"
+  },
+  {
+    "name": "Blankets (can be put out in garbage bags)",
+    "category": "Burnable"
+  },
+  {
+    "category": "Oversized",
+    "name": "Blankets (cannot be put out in garbage Blankets (cannot be put out in garbage"
+  },
+  {
+    "name": "Blinds",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Board (between 40cm and 2m long)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Board (less than 40cm long)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Board for preparation of fish paste",
+    "category": "Burnable"
+  },
+  {
+    "name": "Body stretching machine (exercise use)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Boil-in-bag bags (curry, etc.)",
+    "category": "Non-burnable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Book covers (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Book covers (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Books (hardback)",
+    "category": "Recyclable",
+    "notes": "ie together with string"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Bookshelf/cupboard (other than  wood)"
+  },
+  {
+    "name": "Bookshelf/cupboard (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Bookshelves (other than  wood)"
+  },
+  {
+    "name": "Bookshelves (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Boots",
+    "category": "Plastic"
+  },
+  {
+    "name": "Bowling ball",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection"
+  },
+  {
+    "name": "Bowls (kitchen use; metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Bowls (kitchen use; plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Branches (less than 40cm long and 20cm thick)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Branches (longer than 40cm)",
+    "category": "Oversized Burnable",
+    "notes": "Tie together (length 2m max.)"
+  },
+  {
+    "name": "Broken glass",
+    "category": "Non-burnable"
+  },
+  {
+    "category": "Non-burnable",
+    "name": "Broken glass bottles"
+  },
+  {
+    "name": "BS TV tuner",
+    "category": "Non-burnable",
+    "notes": "bag, should be put out as non-burnable"
+  },
+  {
+    "name": "Bucket (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Bucket (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Burned ash",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Business-related garbage",
+    "category": "We Don't Collect",
+    "notes": "garbage collection box"
+  },
+  {
+    "name": "Cabinet (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Cabinet (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Calculator (computer)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Calculator (computer) packing",
+    "category": "Plastic"
+  },
+  {
+    "name": "Camera",
+    "category": "Non-burnable",
+    "notes": "Recycle if possible"
+  },
+  {
+    "name": "Camera case",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Candles",
+    "category": "Burnable"
+  },
+  {
+    "name": "Canister",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Caramel empty box",
+    "category": "Burnable"
+  },
+  {
+    "name": "Caramel external wrapping film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Caramel wrapping paper (individual caramel wrappers)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Card",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cardboard",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "category": "Burnable",
+    "name": "Cardboard found in electrical cord wrapping pack"
+  },
+  {
+    "name": "Cardboard found in firework packets",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cardboard found in toothbrush packets",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cardboard found inside stocking packets",
+    "category": "Burnable"
+  },
+  {
+    "name": "Carpet",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Cases of CDs, MiniDiscs, DVDs, etc.",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cash Register",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Cassette deck",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Cassette tape",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cassette tape case",
+    "category": "Plastic"
+  },
+  {
+    "name": "CD radio-cassette player",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "CDs, MiniDiscs, DVDs, etc.",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cellophane (transparent type)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cellophane cutter",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Cellophane tape",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cellophane tape center",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cellophane tape packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Ceramics",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Chair (synthetic/steel)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Chair (wood/cloth)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Chest of drawers",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Chewing gum",
+    "category": "Burnable"
+  },
+  {
+    "category": "Burnable",
+    "name": "Chewing gum packet Chewing gum packet"
+  },
+  {
+    "name": "Chewing gum wrapping paper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Chicken hutch",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Child seat",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "China ornament",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Chopsticks (plastics)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Chopsticks (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cleaning cloth",
+    "category": "Burnable"
+  },
+  {
+    "name": "Clock",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Cloth (non-recyclable)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cloth (recyclable)",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Clothes drying",
+    "category": "Oversized Non-burnable",
+    "notes": "Length 2m max."
+  },
+  {
+    "name": "Clothes drying board",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection"
+  },
+  {
+    "name": "Clothes drying machine",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Clothes hanger (plastic housing wire)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Clothes hanger (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Clothing (non-recyclable)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Clothing (recyclable)",
+    "category": "Recyclable"
+  },
+  {
+    "name": "Coffe bottle",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "Coffee bean can",
+    "category": "Recyclable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Coffee bottlecap (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "category": "Plastic",
+    "name": "Coffe maker (polyethylene)"
+  },
+  {
+    "name": "Colander (polyethylene)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Compost container",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Compress",
+    "category": "Burnable"
+  },
+  {
+    "name": "Compress exterior wrapping film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Compress packets (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Confectionery cans (metal)",
+    "category": "Recyclable",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Confectionery containers (other than plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Confectionery containers (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Confectionery containers (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Construction/demolition waste",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Containers of confectionery, noodles, etc. (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Contraceptives",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cooking oil",
+    "category": "Burnable",
+    "notes": "Harden or absorb with paper"
+  },
+  {
+    "name": "Cooking oil absorbent",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cooking oil bottle (glass)",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "Cooking oil bottle (plastic)",
+    "category": "Plastic",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Cooking oil can",
+    "category": "Recyclable",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Cooking oil cap (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Cooking oil cap (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cooler (air-conditioning unit)",
+    "category": "We Don't Collect",
+    "notes": "Take to Electronics Store or Recycle Center"
+  },
+  {
+    "name": "Cooler-box",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "category": "Burnable",
+    "name": "Cooling gel sheet Cooling gel sheet"
+  },
+  {
+    "name": "Cork stopper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cosmetics bag (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cosmetics bottle",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Cotton padding",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cotton padding packaging (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cotton swab",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cotton swab container (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Crab shell",
+    "category": "Burnable"
+  },
+  {
+    "name": "Crafts",
+    "category": "Burnable"
+  },
+  {
+    "name": "Crayon",
+    "category": "Burnable"
+  },
+  {
+    "name": "Crayon case (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Crayon case (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Culinary remains of fish, poultry, pork and beef",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cup (glass)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Cup (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cup noodle container",
+    "category": "Plastic",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Cup noodle container lid",
+    "category": "Burnable"
+  },
+  {
+    "name": "Cup noodle external wrapping film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Curtain (material that can be put in garbage bags)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Curtain (material that can not be put in garbage bags)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Curtain rail",
+    "category": "Oversized Non-burnable",
+    "notes": "2 meters and above"
+  },
+  {
+    "category": "Burnable",
+    "name": "Custard pudding cardboard Custard pudding cardboard"
+  },
+  {
+    "name": "Custard pudding lids (top is paper; reverse is metallic)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Custard pudding packs/cups",
+    "category": "Plastic",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Custard pudding wrapping film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cutting board (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Cutting board (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Desk (steel)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Desk (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Desk lamp",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Desk lamp (cannot be put out in garbage bags)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Detergent carton lids/handles (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Detergent cartons",
+    "category": "Burnable"
+  },
+  {
+    "name": "Detergent container (liquid-containing bottles)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Detergent measuring cup (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Digital camera",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Dining table (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Dining table (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Dishwasher/dryer",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Dolls",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Domestic kotatsu",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Door (aluminium/steel)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "category": "Oversized Burnable",
+    "name": "Door (wood)"
+  },
+  {
+    "name": "Dresser",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Dry grass",
+    "category": "Burnable",
+    "notes": "Remove dirt"
+  },
+  {
+    "name": "Dryer",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Dryer",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Egg packs (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Egg packs (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Eggshell",
+    "category": "Burnable"
+  },
+  {
+    "name": "Electric blanket",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Electric carpet",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Electric fan",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Electric guitar",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Electric mosquito catcher",
+    "category": "Non-burnable"
+  },
+  {
+    "category": "Plastic",
+    "notes": "Empty contents",
+    "name": "Electric mosquito catcher  bottle"
+  },
+  {
+    "name": "Electric mosquito catcher mat",
+    "category": "Burnable"
+  },
+  {
+    "name": "Electric organ",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Electric organ",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Electric pencil sharpener",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Electric rice cooker",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Electric stove",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Electrical appliance boxes (empty; cardboard)",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "category": "Plastic",
+    "name": "Electrical appliance cus hioning (styrofoam) Electrical appliance cushioning (styrofoam)"
+  },
+  {
+    "name": "Electrical cord",
+    "category": "Non-burnable",
+    "notes": "Cut cord into small pieces"
+  },
+  {
+    "name": "Electrical cord wrapping pack (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Electrically heated carpet",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Empty cigarette boxes",
+    "category": "Burnable"
+  },
+  {
+    "name": "Empty paint cans",
+    "category": "Non-burnable",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Engine oil",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Envelopes (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Envelopes (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Eraser",
+    "category": "Burnable"
+  },
+  {
+    "name": "Extension cord (drum)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Extension cord (indoor type)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Facial tissue packets",
+    "category": "Plastic"
+  },
+  {
+    "name": "Fan (bamboo)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Fan (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Fan heater",
+    "category": "Oversized Non-burnable",
+    "notes": "Extract oil/batteries"
+  },
+  {
+    "name": "Fax machine",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Fax/telephone",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Felt-tip pen",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Film tube case",
+    "category": "Plastic"
+  },
+  {
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)",
+    "name": "Fire extinguisher"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Fireproof safe (less than  30cm)"
+  },
+  {
+    "name": "Firework packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Fireworks",
+    "category": "Burnable",
+    "notes": "Soak with water"
+  },
+  {
+    "name": "Fish remains",
+    "category": "Burnable"
+  },
+  {
+    "name": "Fishing rod",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Fittings, sliding doors, etc. (aluminium)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Fittings, sliding doors, etc. (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Flashlight",
+    "category": "Non-burnable",
+    "notes": "Remove batteries"
+  },
+  {
+    "name": "Flier (advertising)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Flier envelopes",
+    "category": "Burnable"
+  },
+  {
+    "name": "Flier packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Floppy disk cases",
+    "category": "Plastic"
+  },
+  {
+    "name": "Floppy disks",
+    "category": "Plastic"
+  },
+  {
+    "name": "Flour bags (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Flowerpot (ceramic)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Flowerpot (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Flowerpot (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Fluorescent tube light cases",
+    "category": "Burnable"
+  },
+  {
+    "name": "Fluorescent tube light utensils",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Fluorescent tube lights (broken)",
+    "category": "Non-burnable"
+  },
+  {
+    "category": "Hazardous waste",
+    "name": "Fluorescent tube lights (not broken)"
+  },
+  {
+    "category": "Plastic",
+    "notes": "polystyrene",
+    "name": "Food tray Food tray"
+  },
+  {
+    "name": "Freezer",
+    "category": "We Don't Collect",
+    "notes": "Take to Electronics Store or Recycle Center"
+  },
+  {
+    "name": "Frisbee",
+    "category": "Plastic"
+  },
+  {
+    "name": "Fruit peel",
+    "category": "Burnable"
+  },
+  {
+    "name": "Fruit/vegetable net containers",
+    "category": "Plastic"
+  },
+  {
+    "name": "Frying pan",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Futon (can be put out in garbage bags)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Futon (cannot be put out in garbage bags)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Futon drying machine",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Game console",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Game software",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Gas burner",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Gas burner",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "category": "Non-burnable",
+    "notes": "Empty and pierce",
+    "name": "Gas canister for portable gas  stove"
+  },
+  {
+    "name": "Gas heater",
+    "category": "Oversized Non-burnable",
+    "notes": "Remove batteries"
+  },
+  {
+    "name": "Gas kettle",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Gas mat (aluminium)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Gas tank (propane)",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Gasoline",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Geta (traditional wooden Japanese shoes)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Glass",
+    "category": "Non-burnable"
+  },
+  {
+    "category": "Non-burnable",
+    "name": "Glass"
+  },
+  {
+    "name": "Glass bottle (food container)",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "Glass bottles (food/drink use)",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "Glass door",
+    "category": "Oversized Non-burnable",
+    "notes": "Wooden construction scraps"
+  },
+  {
+    "name": "Gloves",
+    "category": "Burnable"
+  },
+  {
+    "name": "Gloves (natural/synthetic fibers)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Gloves (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Glue",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Glue (stationery use)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Golf clubs/golf bag",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Grass/Flower",
+    "category": "Burnable",
+    "notes": "Remove dirt"
+  },
+  {
+    "name": "Grocery cans",
+    "category": "Recyclable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Guitar (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "category": "Non-burnable",
+    "name": "Hair products/hair tonic c ontainers (glass)"
+  },
+  {
+    "name": "Hair products/hair tonic containers (plastic)",
+    "category": "Plastic",
+    "notes": "Take to Electronics Store or Recycle Center"
+  },
+  {
+    "category": "Non-burnable",
+    "notes": "Empty and pierce",
+    "name": "Hair products/hair tonic containers  (sprays)"
+  },
+  {
+    "name": "Hair spray can",
+    "category": "Non-burnable",
+    "notes": "Empty and pierce"
+  },
+  {
+    "name": "Hair spray cap (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Hair spray wrapping film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Hairbrush (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Hairbrush (wood)",
+    "category": "Burnable"
+  },
+  {
+    "category": "Non-burnable",
+    "name": "Hairpin"
+  },
+  {
+    "name": "Hamburger pack (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Hammer (home use)",
+    "category": "Non-burnable",
+    "notes": "Small items only"
+  },
+  {
+    "name": "Handbag",
+    "category": "Burnable"
+  },
+  {
+    "name": "Handkerchief",
+    "category": "Burnable"
+  },
+  {
+    "name": "Hats",
+    "category": "Burnable"
+  },
+  {
+    "name": "Heater (electric)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Heater (oil)",
+    "category": "Oversized Non-burnable",
+    "notes": "Extract oil/batteries"
+  },
+  {
+    "name": "Heat-resisting glass",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Helmet",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Home-use wrapping paper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Hose",
+    "category": "Non-burnable",
+    "notes": "Cut into small pieces and put in bags"
+  },
+  {
+    "name": "Hot plate (cooking device)",
+    "category": "Non-burnable",
+    "notes": "should be put out as oversized non-burnable"
+  },
+  {
+    "name": "Hot water dispenser",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Ice cooling pack",
+    "category": "Burnable"
+  },
+  {
+    "name": "Ice cream cup (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Ice cream cup (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Ice cream cup lid (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Ice cream cup lid (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Industrial waste",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "category": "Non-burnable",
+    "name": "Insecticide"
+  },
+  {
+    "name": "Insecticide outer packing (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Iron",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Ironing board",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Jam jar",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "Jam jar lid (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Japanese clothes",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Japanese lunch box (aluminium)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Japanese lunch box (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Japanese lunch box case",
+    "category": "Burnable"
+  },
+  {
+    "name": "Japanese lunch box container (convenience store type, etc.)",
+    "category": "Plastic",
+    "notes": "Wash inside"
+  },
+  {
+    "category": "Plastic",
+    "name": "Japanese lunch box container (convenience store type etc )wrapping film"
+  },
+  {
+    "name": "Juice can (aluminium/steel)",
+    "category": "Recyclable",
+    "notes": "Wash inside thoroughly"
+  },
+  {
+    "name": "Kenzan (flower-arranging tool)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Ketchup container (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Ketchup tube (broken)",
+    "category": "Burnable",
+    "notes": "Contains leftovers"
+  },
+  {
+    "name": "Ketchup tube (not broken)",
+    "category": "Plastic",
+    "notes": "Inside washed"
+  },
+  {
+    "name": "Ketchup tube cap",
+    "category": "Plastic"
+  },
+  {
+    "name": "Kettle",
+    "category": "Non-burnable"
+  },
+  {
+    "category": "Non-burnable",
+    "name": "Key chain"
+  },
+  {
+    "name": "Keyboard (musical instrument)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Kimono",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Kitchen knife",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Kitchen-use detergent bottles, etc.",
+    "category": "Plastic"
+  },
+  {
+    "name": "Knapsack",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Knitting machine",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Knitting wool",
+    "category": "Burnable"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Kotatsu or  kotatsu  board"
+  },
+  {
+    "name": "Ladders (except wood)",
+    "category": "Oversized Non-burnable",
+    "notes": "Length 2m max."
+  },
+  {
+    "name": "Ladders (wood)",
+    "category": "Oversized Burnable",
+    "notes": "Length 2m max."
+  },
+  {
+    "name": "Laser-Disc players",
+    "category": "Non-burnable",
+    "notes": "bag, should be put out as non-burnable"
+  },
+  {
+    "name": "Laundry cleaning paper bag",
+    "category": "Burnable"
+  },
+  {
+    "name": "Laundry cleaning plastic bag",
+    "category": "Plastic"
+  },
+  {
+    "name": "Laundry cleaning polyethylene bag",
+    "category": "Plastic"
+  },
+  {
+    "name": "Laundry nets",
+    "category": "Plastic"
+  },
+  {
+    "name": "Laundry starch container",
+    "category": "Plastic"
+  },
+  {
+    "name": "Laundry starch container cap",
+    "category": "Plastic"
+  },
+  {
+    "name": "Lawnmower",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "category": "Burnable",
+    "notes": "Tie together",
+    "name": "Leaves Leaves/branches of garden shrubs (between 40cm and 2m long) 40cm and 2m long) Leaves/branches of garden shrubs (less than 40cm long)"
+  },
+  {
+    "name": "Leftover rice",
+    "category": "Burnable"
+  },
+  {
+    "name": "Letters",
+    "category": "Burnable"
+  },
+  {
+    "name": "Light bulb",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Lighter (used)",
+    "category": "Non-burnable",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Lighting equipment",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Lipstick",
+    "category": "Burnable"
+  },
+  {
+    "name": "Lipstick containers (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Lipstick containers (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Locker (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Locker (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "category": "Oversized Burnable",
+    "name": "Logs (less than 20cm diameter, s horter than 2m)"
+  },
+  {
+    "name": "Magazines",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Magnifying glass",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Marker pen/permanent marker (other than plastic)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Marker pen/permanent marker (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Masks",
+    "category": "Burnable"
+  },
+  {
+    "name": "Massage machine",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Matchboxes (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Matches",
+    "category": "Burnable",
+    "notes": "Soak with water"
+  },
+  {
+    "category": "Oversized",
+    "name": "Mattress (including springs) Mattress (including springs)"
+  },
+  {
+    "name": "Mattress (no springs)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Mayonnaise external film (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Mayonnaise tube",
+    "category": "Plastic"
+  },
+  {
+    "name": "Mayonnaise tube (broken)",
+    "category": "Burnable",
+    "notes": "Contains leftovers"
+  },
+  {
+    "name": "Mayonnaise tube (not broken)",
+    "category": "Plastic",
+    "notes": "Inside washed"
+  },
+  {
+    "name": "Mechanical pencil",
+    "category": "Plastic"
+  },
+  {
+    "name": "Mechanical pencil lead",
+    "category": "Burnable"
+  },
+  {
+    "name": "Medical system waste",
+    "category": "We Don't Collect"
+  },
+  {
+    "name": "Medicine (pills/capsules, etc.)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Medicine bottles",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Medicine packets (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Melon casing (styrofoam)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Metal scraps",
+    "category": "Non-burnable",
+    "notes": "Wooden construction scraps"
+  },
+  {
+    "name": "Microwave oven",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Milk bottle",
+    "category": "Recyclable"
+  },
+  {
+    "name": "Milk bottle cap (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Milk bottle cap (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Milk carton (silver interior)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Milk carton (white interior)",
+    "category": "Recyclable",
+    "notes": "Washed, opened, tied together"
+  },
+  {
+    "name": "Milk powder can",
+    "category": "Recyclable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Milk powder can lid (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "category": "Oversized",
+    "name": "Mini stereo Mini stereo"
+  },
+  {
+    "name": "MiniDisc radio cassette",
+    "category": "Non-burnable",
+    "notes": "bag, should be put out as non-burnable"
+  },
+  {
+    "name": "MiniDisc recorder",
+    "category": "Non-burnable",
+    "notes": "bag, should be put out as non-burnable"
+  },
+  {
+    "name": "Mirror",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Mirror (hand-mirror)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Mixer",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Motorbike (including parts)",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Mustard tubes",
+    "category": "Plastic",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Nail",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Neckties",
+    "category": "Burnable"
+  },
+  {
+    "name": "Needles",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Newspaper",
+    "category": "Recyclable",
+    "notes": "Tie together with string"
+  },
+  {
+    "name": "Noodle bags",
+    "category": "Plastic"
+  },
+  {
+    "name": "Notebook",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Nutrition drink bottlecaps (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Nutrition drink bottles",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "Obon (except wood)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Obon (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Oil",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Oil absorbents, fixation agents",
+    "category": "Burnable"
+  },
+  {
+    "name": "Oil paper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Old clothes (non-recyclable)",
+    "category": "Burnable",
+    "notes": "Washed items"
+  },
+  {
+    "name": "Old clothes (recyclable)",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Organ",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Oven toaster ",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Pachinko table",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Pacifier",
+    "category": "Plastic"
+  },
+  {
+    "name": "Packaging of medicine (pills/capsules, etc.)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Packing string (including PP bands)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paint",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Paints",
+    "category": "Non-burnable",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Panty hose",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paper bag",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paper candy wrapper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paper cup",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paper diaper",
+    "category": "Burnable",
+    "notes": "Flush garbage in toilet"
+  },
+  {
+    "category": "Recyclable",
+    "notes": "Washed, opened, tied together",
+    "name": "Paper drink carton  (white interi or)"
+  },
+  {
+    "name": "Paper drink carton (silver interior)",
+    "category": "Burnable"
+  },
+  {
+    "category": "Burnable",
+    "name": "Paper juice cartons (ins ide is silver) "
+  },
+  {
+    "name": "Paper juice cartons (inside is white) ",
+    "category": "Recyclable",
+    "notes": "Wash and tie together"
+  },
+  {
+    "name": "Paper plate",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paper twine",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paperwaste",
+    "category": "Burnable"
+  },
+  {
+    "name": "Paperweight",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Partitions",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Pencil",
+    "category": "Burnable"
+  },
+  {
+    "name": "Periodicals",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Personal computer (desktop/laptop)",
+    "category": "We Don't Collect",
+    "notes": "Return to store"
+  },
+  {
+    "name": "Personal computer rack",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "personal seal (except wood)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "personal seal (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Pets' bed's urine adsorbent ",
+    "category": "Burnable"
+  },
+  {
+    "name": "Photo albums (cellophane/synthetic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Photo albums (paper/cloth)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Photocopier",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Photograph negatives",
+    "category": "Plastic"
+  },
+  {
+    "name": "Photographs",
+    "category": "Burnable"
+  },
+  {
+    "name": "Piano",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Picture frame (except wood)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Picture frame (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Pillows and pillow covers",
+    "category": "Burnable"
+  },
+  {
+    "category": "Plastic",
+    "name": "Plastic bottlecaps (plastic) Plastic bottlecaps (plastic)"
+  },
+  {
+    "name": "Plastic bottles",
+    "category": "Recyclable",
+    "notes": "Remove cap, wash inside"
+  },
+  {
+    "name": "Plastic candy packet",
+    "category": "Plastic"
+  },
+  {
+    "name": "Plastic candy wrapper",
+    "category": "Plastic"
+  },
+  {
+    "name": "Plastic juice bottle (with recyclable mark)",
+    "category": "Recyclable",
+    "notes": "garbage collection box"
+  },
+  {
+    "name": "Plastic juice bottlecap (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Plastic medicine containers",
+    "category": "Plastic"
+  },
+  {
+    "name": "Plastic model motors",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Plastic model parts container (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Plastic models",
+    "category": "Plastic",
+    "notes": "Remove batteries"
+  },
+  {
+    "name": "Plastic models' metallic parts",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Plastic packaging of towel (lunch box accessory)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Plastic roof coating",
+    "category": "Burnable",
+    "notes": "Put out unwinded"
+  },
+  {
+    "name": "Plastic storage bin case",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Plastic wrap",
+    "category": "Plastic"
+  },
+  {
+    "name": "Plastic wrap case (cutting edge removed)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Plastic wrap case cutting edge",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Plastic wrap tube",
+    "category": "Burnable"
+  },
+  {
+    "name": "Plates (glass/ceramic)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Polyethylene buckets",
+    "category": "Plastic"
+  },
+  {
+    "name": "Popsicle stick (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Portable gas stove",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Portable word-processor",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Postcards",
+    "category": "Burnable"
+  },
+  {
+    "category": "Plastic",
+    "name": "Potato chip bags, etc. (outside is plastic, inside is aluminium coating)"
+  },
+  {
+    "name": "Potato chip tube container base (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Potato chip tube container lids (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Potato chip tube container lids (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Potato chip tube containers (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Pots",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Pottery",
+    "category": "Non-burnable"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Pounding  mochi  machine (electric/gas)"
+  },
+  {
+    "name": "Printer",
+    "category": "Oversized Non-burnable",
+    "notes": "Non-burnable garbage in bags"
+  },
+  {
+    "name": "Push cart",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Radio",
+    "category": "Non-burnable",
+    "notes": "should be put out as oversized non-burnable"
+  },
+  {
+    "name": "Radio-cassette",
+    "category": "Non-burnable",
+    "notes": "should be put out as oversized non-burnable"
+  },
+  {
+    "name": "Rag",
+    "category": "Burnable"
+  },
+  {
+    "name": "Raincoat",
+    "category": "Plastic"
+  },
+  {
+    "name": "Raincoat (rain gear)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Razors, blades, etc.",
+    "category": "Non-burnable",
+    "notes": "Wrap in paper and write the contents"
+  },
+  {
+    "name": "Reception chair",
+    "category": "Oversized Burnable"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Reception desk (except wood)"
+  },
+  {
+    "name": "Reception desk (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Record sleeves (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Records",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Refrigerator",
+    "category": "We Don't Collect",
+    "notes": " Electronics Store or Recycle Center"
+  },
+  {
+    "name": "Rice bags (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Rice bags (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Rice bin",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Rice bowl",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Rice cooker (gas/electric)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Rice cooker metal jar",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Rope (cloth)",
+    "category": "Burnable",
+    "notes": "Cut into small pieces"
+  },
+  {
+    "name": "Rope (plastic)",
+    "category": "Plastic",
+    "notes": "Cut into small pieces"
+  },
+  {
+    "name": "Rope scraps",
+    "category": "Burnable"
+  },
+  {
+    "name": "Rubber bands",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Rubber glove",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Rubber goods",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Rug mat",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Ruler (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Ruler (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Sake container (inside of container is silver)",
+    "category": "Burnable"
+  },
+  {
+    "category": "Recyclable",
+    "notes": "opened",
+    "name": "Sake container(inside of containeris white) Sake container (inside of container is white)"
+  },
+  {
+    "name": "Sake container cap (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Salad oil",
+    "category": "Burnable",
+    "notes": "Harden or absorb with paper"
+  },
+  {
+    "name": "Salad oil bottle",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sandals",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sanitary goods",
+    "category": "Burnable"
+  },
+  {
+    "name": "Sanitary goods packets (wrappers/bags)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sauce container caps (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sauce containers (plastic)",
+    "category": "Plastic",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Saucepan",
+    "category": "Non-burnable"
+  },
+  {
+    "category": "Non-burnable",
+    "notes": "Remove batteries",
+    "name": "Scales/body fat measuring dev ices"
+  },
+  {
+    "name": "Scissors",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Scooter (including parts)",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Screen door",
+    "category": "Oversized Non-burnable",
+    "notes": "Wooden construction scraps"
+  },
+  {
+    "name": "Senbei (Japanese snack) wrappers (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Setting pin",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Setting pin case (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sewing machine",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Sewing needle",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Shampoo bottle",
+    "category": "Plastic",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Sheets",
+    "category": "Burnable"
+  },
+  {
+    "category": "Burnable",
+    "name": "Shellfish Shellfish"
+  },
+  {
+    "name": "Shirt packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Shirts (cotton)",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Shirts (except cotton)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Shitajiki (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Shitajiki (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Shoe rack (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Shoe rack (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Shoes",
+    "category": "Burnable"
+  },
+  {
+    "name": "Shopping bag (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Shopping bag (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Shopping bags from convenience stores, etc.",
+    "category": "Plastic"
+  },
+  {
+    "name": "Shrimp shell",
+    "category": "Burnable"
+  },
+  {
+    "name": "Sideboards (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Sideboards (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Silver paper found in tobacco boxes",
+    "category": "Burnable"
+  },
+  {
+    "name": "Sink strainer (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Sink strainer (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Skateboard",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "category": "Burnable",
+    "name": "Skewer (bamboo skewers of grilled chicken/ o-dango, etc)"
+  },
+  {
+    "name": "Ski equipment",
+    "category": "Oversized Non-burnable",
+    "notes": "Less than 2m"
+  },
+  {
+    "name": "Sliding doors",
+    "category": "Oversized Burnable"
+  },
+  {
+    "category": "Burnable",
+    "name": "Slippers Slippers"
+  },
+  {
+    "name": "Snowboard",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Soap",
+    "category": "Burnable"
+  },
+  {
+    "name": "Soap packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sock packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Socks",
+    "category": "Burnable"
+  },
+  {
+    "name": "Sofa",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Soy sauce bottle (plastic; recyclable)",
+    "category": "Recyclable",
+    "notes": "garbage collection box"
+  },
+  {
+    "name": "Soy sauce bottlecap (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Soy-preserved food bottle (empty; glass)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Soy-preserved food bottle cap (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Speaker (separate)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Spectacles",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Splittable chopstick packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Splittable chopsticks (disposabel)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Sponge",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sponge kitchen cleaners",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Sponge packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sports shoes",
+    "category": "Burnable"
+  },
+  {
+    "name": "Spray-can",
+    "category": "Non-burnable",
+    "notes": "Empty and pierce"
+  },
+  {
+    "category": "Plastic",
+    "name": "Spray-can cap (plastic)"
+  },
+  {
+    "name": "Spray-paint cans",
+    "category": "Non-burnable",
+    "notes": "Empty and pierce"
+  },
+  {
+    "name": "Spray-paint plastic caps",
+    "category": "Plastic"
+  },
+  {
+    "name": "Staple wire",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Staples",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Steel can (drink/food use)",
+    "category": "Recyclable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Steel chair/desk",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Stepladder",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Stereo",
+    "category": "Oversized Non-burnable",
+    "notes": "burnable garbage in ifu put in bags"
+  },
+  {
+    "name": "Stocking packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Stockings",
+    "category": "Burnable"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Storage room (prefabricated, di smantled)"
+  },
+  {
+    "name": "Stove ",
+    "category": "Oversized Non-burnable",
+    "notes": "Remove batteries"
+  },
+  {
+    "name": "Stove unit",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Straining net (kitchenware)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Straw packets (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Straw packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Strawberry pack",
+    "category": "Plastic"
+  },
+  {
+    "name": "Straws",
+    "category": "Plastic"
+  },
+  {
+    "name": "String (paper/textile)",
+    "category": "Burnable"
+  },
+  {
+    "name": "String (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Stroller",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Strong poison",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Stuffed toy (can be put out in garbage bags)",
+    "category": "Burnable",
+    "notes": "Remove batteries"
+  },
+  {
+    "name": "Stuffed toy (cannot be put out in garbage bags)",
+    "category": "Oversized Burnable",
+    "notes": "Remove batteries"
+  },
+  {
+    "name": "Styrofoam",
+    "category": "Plastic"
+  },
+  {
+    "name": "Sugar stick wrapping paper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Suitcase",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Surfboard",
+    "category": "Oversized Non-burnable",
+    "notes": "Less than 2m"
+  },
+  {
+    "name": "Table (except wood)",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Table (wood)",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Tatami mats",
+    "category": "Oversized Burnable"
+  },
+  {
+    "name": "Tea can",
+    "category": "Recyclable",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Teacups",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Teapot",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Telephone/cell phone",
+    "category": "Non-burnable",
+    "notes": "Remove batteries"
+  },
+  {
+    "name": "Television",
+    "category": "We Don't Collect",
+    "notes": "Take to Electronics Store or Recycle Center"
+  },
+  {
+    "name": "Television stand",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Tempura oil (cooking oil)",
+    "category": "Burnable",
+    "notes": "Harden or absorb with paper"
+  },
+  {
+    "name": "Textbook",
+    "category": "Recyclable",
+    "notes": "Tie together"
+  },
+  {
+    "name": "Thumbtack",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Tinplate",
+    "category": "Oversized Non-burnable",
+    "notes": "Put out unwinded"
+  },
+  {
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)",
+    "name": "Tires (auto parts)"
+  },
+  {
+    "name": "Tissue box ejection film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Tissue box wrapping film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Tissue cases (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Tissue paper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Tobacco ashes",
+    "category": "Burnable"
+  },
+  {
+    "name": "Tobacco wrapping film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Tofu packets/lids",
+    "category": "Plastic"
+  },
+  {
+    "name": "Tofu packets/lids",
+    "category": "Plastic"
+  },
+  {
+    "name": "Toilet paper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Toilet paper packing",
+    "category": "Plastic"
+  },
+  {
+    "name": "Toilet paper tube",
+    "category": "Burnable"
+  },
+  {
+    "name": "Toothbrush",
+    "category": "Plastic"
+  },
+  {
+    "name": "Toothbrush packing (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Toothpaste tubes",
+    "category": "Plastic",
+    "notes": "Empty contents"
+  },
+  {
+    "name": "Towel (lunch box accessory)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Toys (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Toys (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Toys (wood)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Training machine",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Transistor radio",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Trays",
+    "category": "Plastic",
+    "notes": "Except white polystyrene"
+  },
+  {
+    "name": "Trays (white styrofoam)",
+    "category": "Recyclable"
+  },
+  {
+    "name": "Tricycle",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Trouser press",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Typewriter",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Umbrella",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Umbrella stand (other than wood)",
+    "category": "Non-burnable",
+    "notes": "should be put out as oversized non-burnable"
+  },
+  {
+    "name": "Umbrella stand (wood)",
+    "category": "Burnable",
+    "notes": "should be put out as oversized burnable"
+  },
+  {
+    "name": "Underwear",
+    "category": "Burnable"
+  },
+  {
+    "name": "Used chiropractic patch packets (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Used chiropractic patches ",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Used tea leaves",
+    "category": "Burnable"
+  },
+  {
+    "name": "Vacuum cleaner",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Vase",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Vegetable peel",
+    "category": "Burnable"
+  },
+  {
+    "name": "Ventilation fan",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Ventilation fan cover (aluminium)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Ventilation fan cover (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Video camera",
+    "category": "Non-burnable"
+  },
+  {
+    "notes": "bag, should be put out as non-burnable",
+    "name": "Video cassette recorder",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Videotape",
+    "category": "Burnable"
+  },
+  {
+    "name": "Videotape cases",
+    "category": "Plastic"
+  },
+  {
+    "name": "Vinyl-covered shed",
+    "category": "Plastic",
+    "notes": "Cut into small pieces"
+  },
+  {
+    "name": "Wash basin (metal)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Wash basin (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Washing machine",
+    "category": "We Don't Collect",
+    "notes": "Take to Electronics Store or Recycle Center"
+  },
+  {
+    "name": "Waste oil",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "name": "Water-heater",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Weight stone ",
+    "category": "We Don't Collect",
+    "notes": "Refuse Collection"
+  },
+  {
+    "name": "Wheelchair",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "category": "We Don't Collect",
+    "name": "Wheels",
+    "notes": "Refuse Collection (take to specialized supplier)"
+  },
+  {
+    "category": "Burnable",
+    "name": "Wigs"
+  },
+  {
+    "name": "Window box",
+    "category": "Plastic"
+  },
+  {
+    "name": "Wire",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Wood chips",
+    "category": "Burnable"
+  },
+  {
+    "name": "Wooden pole (longer than 40cm)",
+    "category": "Oversized Burnable",
+    "notes": "Length 2m max."
+  },
+  {
+    "name": "Wooden pole (shorter than 40cm)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Word processor",
+    "category": "Oversized Non-burnable"
+  },
+  {
+    "name": "Word processor ink ribbon",
+    "category": "Burnable"
+  },
+  {
+    "category": "Plastic",
+    "name": "Word processor ink ribbon container (plastic)"
+  },
+  {
+    "name": "Working gloves",
+    "category": "Burnable"
+  },
+  {
+    "name": "Wrapping paper",
+    "category": "Burnable"
+  },
+  {
+    "name": "Wristwatch",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Yoghurt cup (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Yoghurt cup (plastic)",
+    "category": "Plastic",
+    "notes": "Wash inside"
+  },
+  {
+    "name": "Yoghurt lid (aluminium)",
+    "category": "Non-burnable"
+  },
+  {
+    "name": "Yoghurt lid (paper)",
+    "category": "Burnable"
+  },
+  {
+    "name": "Yoghurt lid (plastic)",
+    "category": "Plastic"
+  },
+  {
+    "name": "Yoghurt thin external film",
+    "category": "Plastic"
+  },
+  {
+    "name": "Zabuton (flat floor cushion)",
+    "category": "Burnable"
+  },
+  {
+    "category": "Oversized Non-burnable",
+    "name": "Zaisu (small chair used on tatami)"
+  }
+]
